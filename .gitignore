@@ -4,6 +4,7 @@ url
 *.json
 2020_json/
 2021_json/
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
